@@ -1,0 +1,9 @@
+com/api/WebConfig.class
+com/api/repository/ItensRepository.class
+com/api/model/Itens.class
+com/api/controller/ItensController.class
+com/api/ApiApplication.class
+com/api/service/SaveItemServiceImpl.class
+com/api/utils/HandlingImage.class
+com/api/service/SearchItemServiceImpl.class
+com/api/dto/ItensDto.class

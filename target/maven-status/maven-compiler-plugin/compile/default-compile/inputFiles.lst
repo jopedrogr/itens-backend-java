@@ -1,0 +1,9 @@
+/home/joaopr/Documents/api/src/main/java/com/api/dto/ItensDto.java
+/home/joaopr/Documents/api/src/main/java/com/api/repository/ItensRepository.java
+/home/joaopr/Documents/api/src/main/java/com/api/service/SaveItemServiceImpl.java
+/home/joaopr/Documents/api/src/main/java/com/api/service/SearchItemServiceImpl.java
+/home/joaopr/Documents/api/src/main/java/com/api/WebConfig.java
+/home/joaopr/Documents/api/src/main/java/com/api/controller/ItensController.java
+/home/joaopr/Documents/api/src/main/java/com/api/ApiApplication.java
+/home/joaopr/Documents/api/src/main/java/com/api/model/Itens.java
+/home/joaopr/Documents/api/src/main/java/com/api/utils/HandlingImage.java
